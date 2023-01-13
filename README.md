@@ -12,6 +12,9 @@ This is a responsive flex gallery.
 <p align="center">
 <img src="bb.png" width="300px" alt="rock paper scissors game screenshot">
 </p>
+
+<img src="/Recording 2023-01-13 at 16.29.04.gif" width="50%" alt="gif of game in action">
+ <br>
 This is a rock, paper, scissors game, which takes the user's name and keeps score while they play against the computer. Following on from a brief introduction to querying the DOM on my my Code First Girls Introduction to Web Development course, I learned more about it online and was delighted to move on from relying on alert boxes. 
 
 
