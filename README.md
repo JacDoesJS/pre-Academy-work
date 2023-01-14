@@ -20,7 +20,7 @@ This is a responsive flex gallery.
 <p align="center">
 <img src="g.png" width="600px" alt="3 images of weavers on a background of a weaving draft">
 </p>
-I wanted to experiment more with flex so I made this. These are three of the weavers whose work has inspired me the most. Theo Rooden in particular has an amazing eye for beautiful design.  
+I wanted to experiment more with flex so I made this. These are three of the weavers whose work has inspired me the most. Theo Rooden in particular has an amazing eye for beautiful design. The background image is a weaving draft: a pattern chart you have to interpret according to the number of heddles and treadles on your loom.
 <br />
 <br>
 The below are some earlier practice attempts.
